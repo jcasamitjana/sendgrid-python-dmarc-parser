@@ -4,3 +4,7 @@ build
 data
 config.ini
 *.pyc
+
+# IDE Eclipse files
+/.project
+/.pydevproject
